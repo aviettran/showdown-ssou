@@ -1,0 +1,56 @@
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 124 SpA / 132 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Earth Power  
+- Taunt  
+- Protect  
+
+Moltres @ Heavy-Duty Boots  
+Ability: Flame Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hurricane  
+- Flamethrower  
+- Scorching Sands  
+- Roost  
+
+Zeraora @ Heavy-Duty Boots  
+Ability: Volt Absorb  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Plasma Fists  
+- Knock Off  
+- Toxic  
+- Volt Switch  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 88 Def / 168 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Power Whip  
+- Gyro Ball  
+- Leech Seed  
+- Spikes  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+- Stealth Rock  
+- Rock Blast  
+- Ice Beam  
+- Thunder Wave  
+
+Pheromosa @ Protective Pads  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Triple Axel  
+- U-turn  
+- Rapid Spin  
