@@ -1,0 +1,55 @@
+Hydreigon @ Life Orb  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Dark Pulse  
+- Draco Meteor  
+- Flash Cannon  
+
+Krookodile @ Choice Scarf  
+Ability: Anger Point  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Knock Off  
+- Stealth Rock  
+- Stone Edge  
+
+Grimmsnarl @ Leftovers  
+Ability: Prankster  
+EVs: 252 HP / 68 Atk / 108 SpD / 80 Spe  
+Adamant Nature  
+- Taunt  
+- Thunder Wave  
+- Spirit Break  
+- Darkest Lariat  
+
+Crawdaunt @ Choice Band  
+Ability: Adaptability  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Knock Off  
+- Crabhammer  
+- Aqua Jet  
+- Switcheroo  
+
+Urshifu @ Choice Band  
+Ability: Unseen Fist  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Wicked Blow  
+- Sucker Punch  
+- Close Combat  
+- Poison Jab  
+
+Aegislash @ Air Balloon  
+Ability: Stance Change  
+Shiny: Yes  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Shadow Claw  
+- Shadow Sneak  
+- Close Combat  

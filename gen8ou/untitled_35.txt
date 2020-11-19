@@ -1,0 +1,55 @@
+Swampert @ Leftovers  
+Ability: Damp  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Stealth Rock  
+- Earthquake  
+- Toxic  
+- Flip Turn  
+
+Weezing-Galar @ Black Sludge  
+Ability: Levitate  
+EVs: 252 HP / 244 Def / 12 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Defog  
+- Strange Steam  
+- Pain Split  
+- Toxic Spikes  
+
+Kyurem-Black @ Chople Berry  
+Ability: Teravolt  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Icicle Spear  
+- Fusion Bolt  
+- Dual Wingbeat  
+
+Metagross @ Assault Vest  
+Ability: Clear Body  
+EVs: 208 HP / 252 Atk / 48 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Ice Punch  
+- Bullet Punch  
+
+Pheromosa @ Heavy-Duty Boots  
+Ability: Beast Boost  
+EVs: 12 Atk / 244 SpA / 252 Spe  
+Naive Nature  
+- Taunt  
+- Ice Beam  
+- Close Combat  
+- U-turn  
+
+Mommy (Nidoking) (M) @ Life Orb  
+Ability: Sheer Force  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Sludge Wave  
+- Ice Beam  
+- Substitute  

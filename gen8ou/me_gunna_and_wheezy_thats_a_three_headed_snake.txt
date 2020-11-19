@@ -1,0 +1,58 @@
+Wunna (Blastoise) @ Leftovers  
+Ability: Torrent  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Rapid Spin  
+- Ice Beam  
+- Scald  
+- Rest  
+
+Thugger (Clefable) @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+IVs: 0 Atk  
+- Aromatherapy  
+- Moonblast  
+- Soft-Boiled  
+- Wish  
+
+Wheezy (Weezing-Galar) @ Black Sludge  
+Ability: Neutralizing Gas  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Strange Steam  
+- Sludge Bomb  
+- Toxic Spikes  
+
+ThreeHeadedSnake (Hydreigon) @ Choice Specs  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Draco Meteor  
+- Flamethrower  
+- Flash Cannon  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 96 SpD / 160 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Stealth Rock  
+- Taunt  
+- Earth Power  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Knock Off  

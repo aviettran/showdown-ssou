@@ -1,0 +1,55 @@
+Zapdos @ Heavy-Duty Boots  
+Ability: Static  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Hurricane  
+- Defog  
+- Roost  
+
+Cinderace @ Choice Band  
+Ability: Libero  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Pyro Ball  
+- High Jump Kick  
+- Sucker Punch  
+
+Slowbro @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Future Sight  
+- Slack Off  
+- Teleport  
+- Scald  
+
+Garchomp @ Choice Scarf  
+Ability: Rough Skin  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Dragon Claw  
+- Fire Blast  
+- Earthquake  
+- Stone Edge  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 244 HP / 128 Def / 128 SpD / 8 Spe  
+Calm Nature  
+- Moonblast  
+- Stealth Rock  
+- Soft-Boiled  
+- Knock Off  
+
+Pheromosa @ Choice Band  
+Ability: Beast Boost  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Triple Axel  
+- Close Combat  
+- Poison Jab  

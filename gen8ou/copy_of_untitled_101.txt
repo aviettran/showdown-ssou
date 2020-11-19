@@ -1,0 +1,55 @@
+Pheromosa @ Choice Band  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Triple Axel  
+- Close Combat  
+- Poison Jab  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Lava Plume  
+- Scorching Sands  
+- Stealth Rock  
+- Taunt  
+
+Zapdos @ Heavy-Duty Boots  
+Ability: Static  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Defog  
+- Roost  
+- Volt Switch  
+- Hurricane  
+
+Obstagoon @ Flame Orb  
+Ability: Guts  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Facade  
+- Obstruct  
+- Knock Off  
+- Switcheroo  
+
+Swampert @ Rocky Helmet  
+Ability: Damp  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+- Earthquake  
+- Flip Turn  
+- Bulk Up  
+- Darkest Lariat  
+
+Dragapult @ Lum Berry  
+Ability: Infiltrator  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Shadow Ball  
+- U-turn  
+- Thunderbolt  

@@ -1,0 +1,54 @@
+Pheromosa @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- U-turn  
+- Triple Axel  
+- Toxic  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 252 HP / 112 Def / 144 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Draining Kiss  
+- Taunt  
+- Surf  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 28 Def / 228 SpD  
+Careful Nature  
+- Stealth Rock  
+- Spikes  
+- Power Whip  
+- Leech Seed  
+
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 208 Def / 48 Spe  
+Impish Nature  
+- Earthquake  
+- Protect  
+- Toxic  
+- Defog  
+
+Obstagoon @ Flame Orb  
+Ability: Guts  
+EVs: 44 HP / 252 Atk / 212 Spe  
+Adamant Nature  
+- Bulk Up  
+- Facade  
+- Knock Off  
+- Close Combat  
+
+Boltund @ Life Orb  
+Ability: Strong Jaw  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Bulk Up  
+- Psychic Fangs  
+- Fire Fang  
+- Thunder Fang  

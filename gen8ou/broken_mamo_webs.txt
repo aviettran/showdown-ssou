@@ -1,0 +1,54 @@
+Shuckle (M) @ Mental Herb  
+Ability: Sturdy  
+EVs: 248 HP / 252 Def  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Sticky Web  
+- Encore  
+- Infestation  
+
+Rillaboom (M) @ Life Orb  
+Ability: Grassy Surge  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Grassy Glide  
+- Superpower  
+- Knock Off  
+
+Mamoswine (M) @ Life Orb  
+Ability: Oblivious  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Earthquake  
+- Ice Shard  
+- Knock Off  
+
+Urshifu (M) @ Life Orb  
+Ability: Unseen Fist  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Bulk Up  
+- Sucker Punch  
+- Close Combat  
+- Wicked Blow  
+
+Hawlucha (M) @ Grassy Seed  
+Ability: Unburden  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Acrobatics  
+- Close Combat  
+- Substitute  
+
+Aegislash (M) @ Life Orb  
+Ability: Stance Change  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Close Combat  
+- Shadow Claw  
+- Shadow Sneak  
