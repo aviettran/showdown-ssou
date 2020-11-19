@@ -1,0 +1,55 @@
+Toxapex @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic Spikes  
+- Recover  
+- Haze  
+
+Spectrier @ Leftovers  
+Ability: Grim Neigh  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Hex  
+- Nasty Plot  
+- Substitute  
+
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 252 Atk / 48 Def / 208 Spe  
+Jolly Nature  
+- Defog  
+- U-turn  
+- Earthquake  
+- Knock Off  
+
+Melmetal @ Assault Vest  
+Ability: Iron Fist  
+EVs: 252 Atk / 208 SpD / 48 Spe  
+Adamant Nature  
+- Double Iron Bash  
+- Thunder Punch  
+- Ice Punch  
+- Superpower  
+
+Blissey (F) @ Heavy-Duty Boots  
+Ability: Natural Cure  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Thunder Wave  
+- Soft-Boiled  
+- Seismic Toss  
+- Stealth Rock  
+
+Buzzwole @ Heavy-Duty Boots  
+Ability: Beast Boost  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Roost  
+- Toxic  
+- Ice Punch  
+- Drain Punch  
