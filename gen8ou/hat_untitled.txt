@@ -1,0 +1,56 @@
+Clefable @ Life Orb  
+Ability: Magic Guard  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Focus Blast  
+- Fire Blast  
+- Thunderbolt  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Knock Off  
+- Sacred Sword  
+- Defog  
+
+Garchomp @ Lum Berry  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Scale Shot  
+- Stone Edge  
+
+Hatterene @ Leftovers  
+Ability: Magic Bounce  
+EVs: 252 HP / 196 Def / 60 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psyshock  
+- Draining Kiss  
+- Mystical Fire  
+
+Scyther @ Choice Band  
+Ability: Technician  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Quick Attack  
+- Dual Wingbeat  
+- Knock Off  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 132 SpD / 124 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Lava Plume  
+- Taunt  
+- Earth Power  
+- Stealth Rock  

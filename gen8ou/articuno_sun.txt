@@ -1,0 +1,57 @@
+Torkoal @ Heat Rock  
+Ability: Drought  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Lava Plume  
+- Stealth Rock  
+- Rapid Spin  
+- Yawn  
+
+Victini @ Choice Band  
+Ability: Victory Star  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- V-create  
+- Bolt Strike  
+- U-turn  
+- Blaze Kick  
+
+Venusaur @ Life Orb  
+Ability: Chlorophyll  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Growth  
+- Earth Power  
+- Sludge Bomb  
+- Giga Drain  
+
+Latios (M) @ Life Orb  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Aura Sphere  
+- Psyshock  
+- Roost  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Knock Off  
+- Stone Edge  
+
+Articuno @ Heavy-Duty Boots  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Modest Nature  
+- Weather Ball  
+- U-turn  
+- Freeze-Dry  
+- Roost  

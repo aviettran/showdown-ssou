@@ -1,0 +1,61 @@
+Landorus-Therian @ Choice Specs  
+Ability: Intimidate  
+Shiny: Yes  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Weather Ball  
+- Psychic  
+- Sludge Wave  
+
+Aurorus (F) @ Icy Rock  
+Ability: Snow Warning  
+Shiny: Yes  
+EVs: 72 HP / 144 Def / 228 SpA / 64 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Freeze-Dry  
+- Earth Power  
+- Aurora Veil  
+- Stealth Rock  
+
+Arctovish @ Choice Band  
+Ability: Slush Rush  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Fishious Rend  
+- Icicle Spear  
+- Psychic Fangs  
+- Freeze-Dry  
+
+Porygon2 @ Eviolite  
+Ability: Trace  
+EVs: 248 HP / 240 Def / 20 SpD  
+Sassy Nature  
+IVs: 0 Atk  
+- Foul Play  
+- Toxic  
+- Teleport  
+- Recover  
+
+Moltres @ Heavy-Duty Boots  
+Ability: Flame Body  
+EVs: 240 HP / 176 Def / 32 SpD / 60 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Mystical Fire  
+- Scorching Sands  
+- Defog  
+- Roost  
+
+Magearna @ Toxic Orb  
+Ability: Soul-Heart  
+EVs: 232 HP / 172 Def / 4 SpA / 100 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Fleur Cannon  
+- Volt Switch  
+- Pain Split  
+- Trick 

@@ -1,0 +1,57 @@
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 248 HP / 20 SpD / 240 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Doom Desire  
+- Future Sight  
+- Moonblast  
+
+Regidrago @ Choice Specs  
+Ability: Dragon's Maw  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Energy  
+- Draco Meteor  
+- Dragon Pulse  
+- Ancient Power  
+
+Buzzwole @ Leftovers  
+Ability: Beast Boost  
+EVs: 184 HP / 12 Atk / 60 Def / 252 Spe  
+Impish Nature  
+- Earthquake  
+- Drain Punch  
+- Stone Edge  
+- Roost  
+
+Toxapex (F) @ Shed Shell  
+Ability: Regenerator  
+EVs: 248 HP / 8 Def / 252 SpD  
+Sassy Nature  
+- Scald  
+- Knock Off  
+- Toxic Spikes  
+- Recover  
+
+Moltres @ Heavy-Duty Boots  
+Ability: Flame Body  
+EVs: 240 HP / 116 Def / 152 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Scorching Sands  
+- Roost  
+- Defog  
+
+Urshifu @ Choice Scarf  
+Ability: Unseen Fist  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Wicked Blow  
+- Close Combat  
+- U-turn  
+- Poison Jab  

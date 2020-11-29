@@ -1,0 +1,54 @@
+Diancie @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 36 Atk / 136 Def / 44 SpA / 40 SpD  
+Relaxed Nature  
+- Diamond Storm  
+- Body Press  
+- Moonblast  
+- Mystical Fire  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 252 HP / 144 Def / 112 SpD  
+Relaxed Nature  
+- Heavy Slam  
+- Leech Seed  
+- Protect  
+- Flamethrower  
+
+Slowbro @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Teleport  
+- Scald  
+- Counter  
+- Slack Off  
+
+Dragapult @ Choice Specs  
+Ability: Clear Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Shadow Ball  
+- U-turn  
+- Thunder  
+
+Rillaboom @ Choice Band  
+Ability: Grassy Surge  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Wood Hammer  
+- Knock Off  
+- Superpower  
+
+Krookodile @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Knock Off  
+- Taunt  
+- High Horsepower  

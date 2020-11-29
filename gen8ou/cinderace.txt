@@ -1,0 +1,56 @@
+Pheromosa @ Heavy-Duty Boots  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Shock Wave  
+- Rapid Spin  
+- Ice Beam  
+- Focus Blast  
+
+Hippowdon @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 8 Atk / 248 SpD  
+Careful Nature  
+- Earthquake  
+- Slack Off  
+- Stealth Rock  
+- Toxic  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 252 HP / 64 Def / 192 Spe  
+Bold Nature  
+- Moonblast  
+- Scald  
+- Knock Off  
+- Taunt  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Spikes  
+- Gyro Ball  
+- Body Press  
+- Leech Seed  
+
+Cinderace @ Heavy-Duty Boots  
+Ability: Libero  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Pyro Ball  
+- U-turn  
+- High Jump Kick  
+- Sucker Punch  
+
+Zapdos @ Heavy-Duty Boots  
+Ability: Static  
+EVs: 180 HP / 252 SpA / 76 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Discharge  
+- Hurricane  
+- Heat Wave  
+- Roost  

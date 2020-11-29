@@ -1,0 +1,57 @@
+Stakataka @ Choice Band  
+Ability: Beast Boost  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Stone Edge  
+- Earthquake  
+- Body Press  
+
+Zapdos @ Heavy-Duty Boots  
+Ability: Static  
+EVs: 248 HP / 220 Def / 40 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Heat Wave  
+- Volt Switch  
+- Roost  
+- Defog  
+
+Kommo-o @ Leftovers  
+Ability: Bulletproof  
+EVs: 252 HP / 148 Def / 40 SpD / 68 Spe  
+Impish Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Toxic  
+- Flamethrower  
+- Body Press  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Earthquake  
+- Knock Off  
+- Stone Edge  
+
+Spectrier @ Choice Specs  
+Ability: Grim Neigh  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Mud Shot  
+- Dark Pulse  
+- Will-O-Wisp  
+
+Crawdaunt @ Life Orb  
+Ability: Adaptability  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Crabhammer  
+- Aqua Jet  
+- Knock Off  

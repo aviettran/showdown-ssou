@@ -1,0 +1,62 @@
+Bisharp (M) @ Black Glasses  
+Ability: Defiant  
+Shiny: Yes  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Swords Dance  
+- Knock Off  
+- Sucker Punch  
+- Iron Head  
+
+Ferrothorn (M) @ Rocky Helmet  
+Ability: Iron Barbs  
+Shiny: Yes  
+EVs: 248 HP / 8 Atk / 252 Def  
+Impish Nature  
+- Body Press  
+- Leech Seed  
+- Stealth Rock  
+- Knock Off  
+
+Toxapex (F) @ Rocky Helmet  
+Ability: Regenerator  
+Shiny: Yes  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Haze  
+- Recover  
+- Toxic Spikes  
+
+Rillaboom (M) @ Choice Band  
+Ability: Grassy Surge  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- U-turn  
+- Wood Hammer  
+- Grassy Glide  
+- Superpower  
+
+Nidoking @ Choice Scarf  
+Ability: Sheer Force  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Ice Beam  
+- Flamethrower  
+- Sludge Wave  
+
+Zapdos @ Heavy-Duty Boots  
+Ability: Static  
+Shiny: Yes  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Discharge  
+- Hurricane  
+- Roost  
+- Defog  
