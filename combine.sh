@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rm combined.txt
+rm combined.txt -f
 
 for f in gen8ou/*
 do
