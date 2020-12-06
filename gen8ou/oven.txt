@@ -1,0 +1,56 @@
+Pheromosa @ Choice Band  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- U-turn  
+- Poison Jab  
+- Triple Axel  
+
+Rotom-Heat @ Heavy-Duty Boots  
+Ability: Levitate  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Overheat  
+- Volt Switch  
+- Pain Split  
+
+Nidoking (M) @ Life Orb  
+Ability: Sheer Force  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Sludge Wave  
+- Earth Power  
+- Ice Beam  
+
+Mandibuzz (F) @ Heavy-Duty Boots  
+Ability: Overcoat  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Roost  
+- Defog  
+- Foul Play  
+- Toxic  
+
+Rillaboom @ Life Orb  
+Ability: Grassy Surge  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Grassy Glide  
+- Drain Punch  
+- Knock Off  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Timid Nature  
+- Magma Storm  
+- Stone Edge  
+- Stealth Rock  
+- Earth Power  

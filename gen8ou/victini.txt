@@ -1,0 +1,56 @@
+Victini @ Expert Belt  
+Ability: Victory Star  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blue Flare  
+- Psychic  
+- Scorching Sands  
+- Substitute  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 252 HP / 64 SpA / 192 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Surf  
+- Draining Kiss  
+- Taunt  
+- Calm Mind  
+
+Ferrothorn (M) @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Power Whip  
+- Leech Seed  
+- Stealth Rock  
+
+Garchomp (M) @ Life Orb  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Scale Shot  
+- Earthquake  
+- Stone Edge  
+- Swords Dance  
+
+Mandibuzz (F) @ Heavy-Duty Boots  
+Ability: Big Pecks  
+EVs: 248 HP / 252 Def / 8 SpD  
+Impish Nature  
+- Foul Play  
+- U-turn  
+- Defog  
+- Roost  
+
+Pheromosa @ Life Orb  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- U-turn  
+- Poison Jab  
+- Triple Axel  

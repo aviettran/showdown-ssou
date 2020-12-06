@@ -1,0 +1,58 @@
+Santana (Tapu Fini) @ Choice Scarf  
+Ability: Misty Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Hydro Pump  
+- Defog  
+- Trick  
+
+Bird (Mandibuzz) (F) @ Weakness Policy  
+Ability: Overcoat  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Air Slash  
+- Dark Pulse  
+- Heat Wave  
+
+Sama (Hippowdon) @ Life Orb  
+Ability: Sand Stream  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- Fire Fang  
+- Ice Fang  
+
+Suave (Rillaboom) @ Choice Band  
+Ability: Grassy Surge  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Grassy Glide  
+- Wood Hammer  
+- U-turn  
+- Superpower  
+
+Broken Shit (Magearna) @ Choice Specs  
+Ability: Soul-Heart  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Fleur Cannon  
+- Flash Cannon  
+- Ice Beam  
+
+Agent00 Thornz (Ferrothorn) @ Choice Band  
+Ability: Iron Barbs  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Power Whip  
+- Gyro Ball  
+- Knock Off  
+- Stealth Rock  
+
