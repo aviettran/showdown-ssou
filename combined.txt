@@ -114,6 +114,64 @@ Jolly Nature
 - Fire Fang  
 - Thunder Fang  
 
+=== [gen8ou] arctozolt_hail ===
+Slowbro @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 248 HP / 248 Def / 12 SpA  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Teleport  
+- Future Sight  
+- Slack Off  
+- Scald  
+ 
+Arctozolt @ Heavy-Duty Boots  
+Ability: Slush Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Bolt Beak  
+- Icicle Crash  
+- Low Kick  
+- Icicle Spear  
+ 
+Vanilluxe @ Choice Specs  
+Ability: Snow Warning  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Rash Nature  
+- Blizzard  
+- Freeze-Dry  
+- Aurora Veil  
+- Ice Shard  
+ 
+Cinderace @ Heavy-Duty Boots  
+Ability: Libero  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Court Change  
+- U-turn  
+- High Jump Kick  
+- Pyro Ball  
+ 
+Swampert @ Leftovers  
+Ability: Damp  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+IVs: 22 Spe  
+- Stealth Rock  
+- Flip Turn  
+- Earthquake  
+- Toxic  
+ 
+Mandibuzz (F) @ Heavy-Duty Boots  
+Ability: Overcoat  
+EVs: 248 HP / 116 Def / 144 SpD  
+Impish Nature  
+IVs: 26 Spe  
+- Foul Play  
+- Defog  
+- Roost  
+- U-turn  
+
 === [gen8ou] articuno_sun ===
 Torkoal @ Heat Rock  
 Ability: Drought  
@@ -758,6 +816,65 @@ IVs: 0 Atk
 - Volt Switch  
 - Pain Split  
 - Trick 
+
+=== [gen8ou] gapdos_webs ===
+Aw shucks (Shuckle) @ Mental Herb  
+Ability: Sturdy  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Sticky Web  
+- Encore  
+- Final Gambit  
+ 
+Oi mate (Zapdos-Galar) @ Leftovers  
+Ability: Defiant  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Bulk Up  
+- Brave Bird  
+- Thunderous Kick  
+- Agility  
+ 
+Lusameme (Nihilego) @ Power Herb  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Meteor Beam  
+- Power Gem  
+- Grass Knot  
+- Dazzling Gleam  
+ 
+Old town road (Spectrier) @ Choice Specs  
+Ability: Grim Neigh  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Mud Shot  
+- Hex  
+- Will-O-Wisp  
+ 
+Big boomer (Rillaboom) @ Choice Band  
+Ability: Grassy Surge  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Wood Hammer  
+- U-turn  
+- Grassy Glide  
+- High Horsepower  
+ 
+Mothra (Volcarona) @ Heavy-Duty Boots  
+Ability: Flame Body  
+EVs: 252 HP / 72 Def / 184 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Roost  
+- Flamethrower  
+- Psychic  
 
 === [gen8ou] hat_untitled ===
 Clefable @ Life Orb  
