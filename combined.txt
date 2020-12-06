@@ -237,6 +237,66 @@ IVs: 0 Atk
 - Roost  
 - Defog  
 
+=== [gen8ou] broken_ho_semi_stall ===
+Santana (Tapu Fini) @ Choice Scarf  
+Ability: Misty Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Hydro Pump  
+- Defog  
+- Trick  
+
+Bird (Mandibuzz) (F) @ Weakness Policy  
+Ability: Overcoat  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Air Slash  
+- Dark Pulse  
+- Heat Wave  
+
+Sama (Hippowdon) @ Life Orb  
+Ability: Sand Stream  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- Fire Fang  
+- Ice Fang  
+
+Suave (Rillaboom) @ Choice Band  
+Ability: Grassy Surge  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Grassy Glide  
+- Wood Hammer  
+- U-turn  
+- Superpower  
+
+Broken Shit (Magearna) @ Choice Specs  
+Ability: Soul-Heart  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Fleur Cannon  
+- Flash Cannon  
+- Ice Beam  
+
+Agent00 Thornz (Ferrothorn) @ Choice Band  
+Ability: Iron Barbs  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Power Whip  
+- Gyro Ball  
+- Knock Off  
+- Stealth Rock  
+
+
 === [gen8ou] broken_mamo_webs ===
 Shuckle (M) @ Mental Herb  
 Ability: Sturdy  
@@ -990,6 +1050,64 @@ Jolly Nature
 - Close Combat  
 - Poison Jab  
 
+=== [gen8ou] oven ===
+Pheromosa @ Choice Band  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- U-turn  
+- Poison Jab  
+- Triple Axel  
+
+Rotom-Heat @ Heavy-Duty Boots  
+Ability: Levitate  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Overheat  
+- Volt Switch  
+- Pain Split  
+
+Nidoking (M) @ Life Orb  
+Ability: Sheer Force  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Sludge Wave  
+- Earth Power  
+- Ice Beam  
+
+Mandibuzz (F) @ Heavy-Duty Boots  
+Ability: Overcoat  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Roost  
+- Defog  
+- Foul Play  
+- Toxic  
+
+Rillaboom @ Life Orb  
+Ability: Grassy Surge  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Grassy Glide  
+- Drain Punch  
+- Knock Off  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Timid Nature  
+- Magma Storm  
+- Stone Edge  
+- Stealth Rock  
+- Earth Power  
+
 === [gen8ou] stakataka ===
 Stakataka @ Choice Band  
 Ability: Beast Boost  
@@ -1222,4 +1340,62 @@ Adamant Nature
 - Thunderous Kick  
 - Drill Peck  
 - Throat Chop  
+
+=== [gen8ou] victini ===
+Victini @ Expert Belt  
+Ability: Victory Star  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blue Flare  
+- Psychic  
+- Scorching Sands  
+- Substitute  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 252 HP / 64 SpA / 192 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Surf  
+- Draining Kiss  
+- Taunt  
+- Calm Mind  
+
+Ferrothorn (M) @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Power Whip  
+- Leech Seed  
+- Stealth Rock  
+
+Garchomp (M) @ Life Orb  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Scale Shot  
+- Earthquake  
+- Stone Edge  
+- Swords Dance  
+
+Mandibuzz (F) @ Heavy-Duty Boots  
+Ability: Big Pecks  
+EVs: 248 HP / 252 Def / 8 SpD  
+Impish Nature  
+- Foul Play  
+- U-turn  
+- Defog  
+- Roost  
+
+Pheromosa @ Life Orb  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- U-turn  
+- Poison Jab  
+- Triple Axel  
 
