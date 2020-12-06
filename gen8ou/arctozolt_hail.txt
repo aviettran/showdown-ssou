@@ -1,0 +1,56 @@
+Slowbro @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 248 HP / 248 Def / 12 SpA  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Teleport  
+- Future Sight  
+- Slack Off  
+- Scald  
+ 
+Arctozolt @ Heavy-Duty Boots  
+Ability: Slush Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Bolt Beak  
+- Icicle Crash  
+- Low Kick  
+- Icicle Spear  
+ 
+Vanilluxe @ Choice Specs  
+Ability: Snow Warning  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Rash Nature  
+- Blizzard  
+- Freeze-Dry  
+- Aurora Veil  
+- Ice Shard  
+ 
+Cinderace @ Heavy-Duty Boots  
+Ability: Libero  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Court Change  
+- U-turn  
+- High Jump Kick  
+- Pyro Ball  
+ 
+Swampert @ Leftovers  
+Ability: Damp  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+IVs: 22 Spe  
+- Stealth Rock  
+- Flip Turn  
+- Earthquake  
+- Toxic  
+ 
+Mandibuzz (F) @ Heavy-Duty Boots  
+Ability: Overcoat  
+EVs: 248 HP / 116 Def / 144 SpD  
+Impish Nature  
+IVs: 26 Spe  
+- Foul Play  
+- Defog  
+- Roost  
+- U-turn  

@@ -1,0 +1,57 @@
+Aw shucks (Shuckle) @ Mental Herb  
+Ability: Sturdy  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Sticky Web  
+- Encore  
+- Final Gambit  
+ 
+Oi mate (Zapdos-Galar) @ Leftovers  
+Ability: Defiant  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Bulk Up  
+- Brave Bird  
+- Thunderous Kick  
+- Agility  
+ 
+Lusameme (Nihilego) @ Power Herb  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Meteor Beam  
+- Power Gem  
+- Grass Knot  
+- Dazzling Gleam  
+ 
+Old town road (Spectrier) @ Choice Specs  
+Ability: Grim Neigh  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Mud Shot  
+- Hex  
+- Will-O-Wisp  
+ 
+Big boomer (Rillaboom) @ Choice Band  
+Ability: Grassy Surge  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Wood Hammer  
+- U-turn  
+- Grassy Glide  
+- High Horsepower  
+ 
+Mothra (Volcarona) @ Heavy-Duty Boots  
+Ability: Flame Body  
+EVs: 252 HP / 72 Def / 184 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Roost  
+- Flamethrower  
+- Psychic  
